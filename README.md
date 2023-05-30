@@ -1,2 +1,2 @@
-# Js-Developer-Pokedex
+#Pokedex
 Criação de uma Pokedex.
